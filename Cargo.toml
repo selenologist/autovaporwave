@@ -1,0 +1,6 @@
+[package]
+name = "autovaporwave"
+version = "0.1.0"
+authors = ["Selenologist <none@example.com>"]
+
+[dependencies]
